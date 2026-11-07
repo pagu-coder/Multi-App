@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "package": "com.image.host",
-  "current_version": "1.0.0",
+  "package": "com.waxmoon.ma.gp",
+  "current_version": "3.0.2",
   "latest_version": "999.999",
   "force_update": true,
   "logo_url": "https://imgh.in/host/x25jqi",
